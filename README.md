@@ -65,7 +65,6 @@ python figure2.py
 ```
 
 4️⃣ Run SQL Queries
-```bash
 Use your preferred SQL environment (SQLite, PostgreSQL, etc.):
 ```bash
 .read figure15.sql
