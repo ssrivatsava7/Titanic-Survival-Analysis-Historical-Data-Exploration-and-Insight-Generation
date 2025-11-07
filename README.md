@@ -73,26 +73,26 @@ Make sure your Titanic dataset (e.g., train.csv) is available in your local envi
 
 📊 Analytical Focus
 This analysis investigates:
-Survival probability by gender, class, and age
-Correlation between fare amount and survival rate
-Influence of embarkation point and family size
-Comparison of Python vs SQL data transformations
+-Survival probability by gender, class, and age
+-Correlation between fare amount and survival rate
+-Influence of embarkation point and family size
+-Comparison of Python vs SQL data transformations
 
 🔍 Sample Insights
-📈 Gender: Female passengers had a survival rate over 70%, far higher than male passengers.
-🏷️ Class: First-class passengers were more than twice as likely to survive as third-class passengers.
-👶 Age: Younger passengers (especially under 10) had higher survival odds.
-💰 Fare: Passengers who paid higher fares generally had higher survival chances.
-🧭 Embarkation Port: Differences suggest socioeconomic disparities among passengers.
+-📈 Gender: Female passengers had a survival rate over 70%, far higher than male passengers.
+-🏷️ Class: First-class passengers were more than twice as likely to survive as third-class passengers.
+-👶 Age: Younger passengers (especially under 10) had higher survival odds.
+-💰 Fare: Passengers who paid higher fares generally had higher survival chances.
+-🧭 Embarkation Port: Differences suggest socioeconomic disparities among passengers.
 
 📘 Key Learning Outcomes
-Applying SQL for structured data extraction and aggregation
-Performing EDA in Python with pandas and seaborn
-Data storytelling: turning numeric results into historical insights
-Understanding feature relationships in real-world datasets
-Strengthening reproducibility through modular code and clear structure
+-Applying SQL for structured data extraction and aggregation
+-Performing EDA in Python with pandas and seaborn
+-Data storytelling: turning numeric results into historical insights
+-Understanding feature relationships in real-world datasets
+-Strengthening reproducibility through modular code and clear structure
 
 🔮 Future Enhancements
-Build a predictive model (e.g., logistic regression or random forest) for survival prediction
-Create an interactive dashboard using Streamlit or Plotly Dash
-Integrate automated SQL-to-Python pipelines
+-Build a predictive model (e.g., logistic regression or random forest) for survival prediction
+-Create an interactive dashboard using Streamlit or Plotly Dash
+-Integrate automated SQL-to-Python pipelines
